@@ -1,0 +1,5 @@
+print ("Hello World")
+name = str(input ("Enter your name"))
+age = int(input("Enter your age"))
+print (f"Hello {name}. You're { age} years old")
+#print (f"You're { age} years old")
